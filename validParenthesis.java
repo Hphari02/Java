@@ -1,3 +1,4 @@
+//chacks if the given string of parenthesis is valid 
 class Solution {
     public boolean isValid(String s) {
         int n=s.length();
